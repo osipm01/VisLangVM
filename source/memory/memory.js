@@ -1,4 +1,4 @@
-// memory-allocator-balanced.js - Сбалансированная версия
+// memory.js
 
 class Arena {
   constructor(capacity = 1024) {
